@@ -1,0 +1,61 @@
+/* Estilo para el logo */
+.navbar-logo{
+  max-width: 80px; /* Ajusta el tamaño del logo aquí */
+ margin-right: 20px; 
+}
+
+.value-box p {
+font-size: 20px;
+}
+
+
+
+
+.small-box .icon-large {
+  position: absolute;
+    top: 20%;
+  right: -180px;
+  transform: translateY(-100 %);
+  font-size: 40px; /* Ajusta el tamaño del icono según sea necesario */
+}
+
+
+
+
+h1, h2, h3, h4 {
+  font-size: 20px;
+  font-weight:bold;
+}
+ 
+.section.sidebar {
+top: 51px;
+background-color: #ddeeec;
+}
+
+
+
+.value-box,.value-box-primary, .bg-primary {
+    background-color: #457e76;
+
+}
+
+/*.chart-title {
+    font-size: 48px;
+}
+*/
+
+.navbar-inverse, .navbar-nav>.active>a, .navbar-inverse, .navbar-nav>.active>a:hover, .navbar-inverse, .navbar-nav>.active>a:focus{
+background-color: #457e76;
+border-color: #457e76;
+}
+
+
+  /*COLORES INE
+  
+ granate: #881333 RGB:136/19/51 HSB: 344º/86/53 LAB: 34/56/23
+Verde fuerte: #457e76 RGB:69/126/118 HSB:172º/45/49 LAB: 47/-33/-4
+Verde claro:#ddeeec RGB: 221/238/236 HSB:173º/7/93 LAB: 92/-8/-2
+
+-- 
+  
+  */
